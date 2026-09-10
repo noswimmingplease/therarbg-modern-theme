@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         TheRARBG Tampermonkey Theme
 // @namespace    local.therarbg.theme
-// @version      0.2.1
+// @version      0.2.2
 // @description  A cleaner, page-aware dark theme for TheRARBG.
 // @author       Citizen
 // @homepageURL  https://github.com/Ci303/therarbg-modern-theme
@@ -1356,6 +1356,9 @@
     }
 
     html.${ROOT_CLASS} .search-result-pop {
+      /* Keep suggestions in the shared layout instead of the site's absolute overlay. */
+      position: static !important;
+      inset: auto !important;
       grid-column: 1 / -1;
       grid-row: 4;
     }

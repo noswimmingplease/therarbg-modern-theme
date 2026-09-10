@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.2 - 2026-09-10
+
+- Keep search suggestions below the search controls across themed pages and screen sizes so they cannot cover the text being entered.
+
 ## 0.2.1 - 2026-08-24
 
 - Condense the README feature summary to the most useful end-user highlights.
