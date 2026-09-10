@@ -14,7 +14,7 @@ function metadataValues(name) {
 
 test('userscript metadata is safe and release-ready', () => {
   assert.deepEqual(metadataValues('name'), ['TheRARBG Tampermonkey Theme']);
-  assert.deepEqual(metadataValues('version'), ['0.2.1']);
+  assert.deepEqual(metadataValues('version'), ['0.2.2']);
   assert.deepEqual(metadataValues('grant'), ['none']);
   assert.deepEqual(metadataValues('match'), [
     'https://therarbg.com/',
