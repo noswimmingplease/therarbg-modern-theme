@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         TheRARBG Tampermonkey Theme
 // @namespace    local.therarbg.theme
-// @version      0.2.2
+// @version      0.2.3
 // @description  A cleaner, page-aware dark theme for TheRARBG.
 // @author       Citizen
-// @homepageURL  https://github.com/Ci303/therarbg-modern-theme
-// @supportURL   https://github.com/Ci303/therarbg-modern-theme/issues
-// @updateURL    https://raw.githubusercontent.com/Ci303/therarbg-modern-theme/main/therarbg-modern-theme.user.js
-// @downloadURL  https://raw.githubusercontent.com/Ci303/therarbg-modern-theme/main/therarbg-modern-theme.user.js
+// @homepageURL  https://github.com/noswimmingplease/therarbg-modern-theme
+// @supportURL   https://github.com/noswimmingplease/therarbg-modern-theme/issues
+// @updateURL    https://raw.githubusercontent.com/noswimmingplease/therarbg-modern-theme/main/therarbg-modern-theme.user.js
+// @downloadURL  https://raw.githubusercontent.com/noswimmingplease/therarbg-modern-theme/main/therarbg-modern-theme.user.js
 // @match        https://therarbg.com/
 // @match        https://therarbg.com/get-posts*
 // @match        https://therarbg.com/trending*
