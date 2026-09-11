@@ -18,7 +18,7 @@ A local Tampermonkey userscript that gives TheRARBG a cleaner, responsive dark i
 ## Install with Tampermonkey
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) in your browser.
-2. Open the [userscript installation link](https://raw.githubusercontent.com/Ci303/therarbg-modern-theme/main/therarbg-modern-theme.user.js).
+2. Open the [userscript installation link](https://raw.githubusercontent.com/noswimmingplease/therarbg-modern-theme/main/therarbg-modern-theme.user.js).
 3. Tampermonkey should open an installation page. Review the script details and select **Install**.
 4. Visit a supported TheRARBG page or reload one that is already open.
 
@@ -65,7 +65,7 @@ Open the Tampermonkey dashboard and either switch off **TheRARBG Tampermonkey Th
 - Confirm the address starts with one of the supported routes above.
 - Reload the page after installing or updating the script.
 - If another style extension overrides the theme, temporarily disable that extension to identify the conflict.
-- Report reproducible problems through [GitHub Issues](https://github.com/Ci303/therarbg-modern-theme/issues), including the page address, browser, Tampermonkey version and a screenshot where useful.
+- Report reproducible problems through [GitHub Issues](https://github.com/noswimmingplease/therarbg-modern-theme/issues), including the page address, browser, Tampermonkey version and a screenshot where useful.
 
 ## Permissions and privacy
 
